@@ -11,7 +11,8 @@ dist
 build
 eggs
 parts
-private_files
+## removed since private repo added as submodule to this location
+# private_files
 bin
 var
 sdist
