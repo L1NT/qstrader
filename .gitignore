@@ -10,6 +10,8 @@ dist
 build
 eggs
 parts
+lib64
+pyvenv.cfg
 ## removed since private repo added as submodule to this location
 # private_files
 bin
